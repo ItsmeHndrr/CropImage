@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Minimal TypeScript Starter
+  TypeScript Starter
 </h1>
 
 ## 🚀 Quick start
